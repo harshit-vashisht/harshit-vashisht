@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1050" viewBox="0 0 1100 1050" role="img" aria-labelledby="card-title card-description" data-theme="light" data-motion="workbench-v1">
+<title id="card-title">harshit-vashisht — A mind, under construction.</title>
+<desc id="card-description">harshit-vashisht. A mind, under construction. 6 public repositories, 6 authored commits, 0 stars, 0 followers. 7,138 lines added and 24 lines removed in authored commit diffs. 3 active days in the last 365 days. Code and activity cover owned public non-fork repositories on default branches, excluding this profile repository. Diff line counts are not unique lines of code or push events. Updated 24 OCT 2026.</desc>
+<defs>
+  <pattern id="bench-dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#c7cbbc"/></pattern>
+  <clipPath id="activity-clip"><rect x="48" y="857" width="1004" height="100"/></clipPath>
+</defs>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #282d26; }
+  .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+  .muted { fill: #626859; }
+  .accent { fill: #b93f23; }
+  .rule { stroke: #c7cbbc; stroke-width: 1; }
+  .wheel-spin { transform-box: fill-box; transform-origin: center; animation: turn 48s linear infinite; }
+  .wheel-counter { transform-box: fill-box; transform-origin: center; animation: turn 72s linear infinite reverse; }
+  .signal { animation: signal 4s ease-in-out infinite; }
+  @keyframes turn { to { transform: rotate(360deg); } }
+  @keyframes signal { 50% { opacity: .45; } }
+  @media (prefers-reduced-motion: reduce) { .wheel-spin, .wheel-counter, .signal { animation: none; } }
+</style>
+<rect width="1100" height="1050" rx="14" fill="#f2f0e7"/>
+<rect x=".5" y=".5" width="1099" height="1049" rx="14" fill="none" stroke="#c7cbbc"/>
+<path d="M48 25v24m19-24v24M48 37h19" fill="none" stroke="#282d26" stroke-width="4"/>
+<path d="m54 29 8 15" stroke="#ef502d" stroke-width="4"/>
+<text x="83" y="44" font-size="21" font-weight="600">harshit-vashisht</text>
+<text x="1052" y="43" class="mono muted" font-size="13" text-anchor="end" letter-spacing="1.3">A PERSONAL WORKBENCH / 001</text>
+<path d="M48 69H1052" class="rule"/>
+<text x="48" y="128" class="mono muted" font-size="13" letter-spacing="2">PART DEVELOPER. PART UNFINISHED THOUGHT.</text>
+<text x="44" y="209" font-size="72" font-weight="500" letter-spacing="-4.4">A mind, under</text>
+<text x="44" y="282" font-size="72" font-weight="500" letter-spacing="-4.4" fill="#ef502d" style="fill:#ef502d">construction.</text>
+<text x="48" y="325" font-size="18" class="muted">Interfaces. Experiments. The decisions underneath.</text>
+<g aria-hidden="true">
+<rect x="744" y="88" width="308" height="246" fill="url(#bench-dots)" opacity=".6"/>
+<path d="M718 211h344M881 84v248" class="rule" stroke-dasharray="3 7"/>
+<circle cx="881" cy="211" r="119" fill="none" stroke="#c7cbbc" stroke-dasharray="2 7"/>
+<path d="M745 343h281m-281-5v10m281-10v10" class="rule"/>
+<g transform="translate(881 211)">
+<circle r="93" fill="#282d26"/>
+<circle r="81" fill="none" stroke="#d5dfbd"/>
+<g class="wheel-spin">
+<g transform="rotate(0)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(30)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(60)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(90)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(120)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(150)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(180)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(210)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(240)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(270)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(300)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+<g transform="rotate(330)"><path d="M-4-73h8v32h-8z" fill="#d5dfbd"/><circle cy="-65" r="1.5" fill="#f2f0e7"/></g>
+</g><circle r="33" fill="#d5dfbd"/><circle r="21" fill="#ef502d"/><circle r="8" fill="#f2f0e7"/>
+<g class="wheel-counter"><circle r="108" fill="none" stroke="#ef502d" stroke-width="9"/><path d="M-13-123h26v19h-26z" fill="#ef502d"/></g>
+</g>
+<path d="M881 211C1015 211 956 314 1040 300" fill="none" stroke="#ef502d" stroke-width="1.7"/>
+<circle cx="1040" cy="300" r="5" fill="#ef502d" class="signal"/>
+</g>
+<path d="M48 365H1052" class="rule"/>
+
+<g><title>Public Repositories: 6</title><text x="48" y="401" class="mono muted" font-size="13" letter-spacing=".7">PUBLIC REPOSITORIES</text><text x="46" y="455" font-size="46" letter-spacing="-1.5" font-weight="500">6</text></g>
+<path d="M278 390v68" class="rule"/>
+<g><title>Authored Commits: 6</title><text x="304" y="401" class="mono muted" font-size="13" letter-spacing=".7">AUTHORED COMMITS</text><text x="302" y="455" font-size="46" letter-spacing="-1.5" font-weight="500">6</text></g>
+<path d="M534 390v68" class="rule"/>
+<g><title>Stars Received: 0</title><text x="560" y="401" class="mono muted" font-size="13" letter-spacing=".7">STARS RECEIVED</text><text x="558" y="455" font-size="46" letter-spacing="-1.5" font-weight="500">0</text></g>
+<path d="M790 390v68" class="rule"/>
+<g><title>Followers: 0</title><text x="816" y="401" class="mono muted" font-size="13" letter-spacing=".7">FOLLOWERS</text><text x="814" y="455" font-size="46" letter-spacing="-1.5" font-weight="500">0</text></g>
+<path d="M48 481H1052" class="rule"/>
+<text x="48" y="517" class="mono muted" font-size="13" letter-spacing="1.2">01 / THE CODE LEFT BEHIND</text>
+<g><title>7,138 lines added across authored commit diffs</title><text x="46" y="576" font-size="48" letter-spacing="-1.8" style="fill:#536b3d">+7,138</text><text x="305" y="571" font-size="17" class="muted">lines added</text></g>
+<g><title>24 lines removed across authored commit diffs</title><text x="590" y="576" font-size="48" letter-spacing="-1.8" class="accent">−24</text><text x="850" y="571" font-size="17" class="muted">lines removed</text></g>
+<rect x="48" y="596" width="1004" height="4" fill="#c7cbbc"/>
+
+<rect x="48" y="596" width="1000.636" height="4" fill="#536b3d"/><rect x="1048.636" y="596" width="3.364" height="4" fill="#ef502d"/>
+<text x="48" y="624" class="muted" font-size="14">Lifetime authored diff lines · not unique lines of code · 5 repositories scanned</text>
+<text x="48" y="674" class="mono muted" font-size="13" letter-spacing="1.2">02 / TOOLS ON THE BENCH</text>
+<text x="601" y="674" class="mono muted" font-size="13" letter-spacing="1.2">03 / LANGUAGE MIX · BYTES</text>
+<path d="M564 655v135" class="rule"/>
+
+<g><title>React</title><rect x="48" y="691" width="75" height="29" rx="3" fill="#e8eadf" stroke="#c7cbbc"/><text x="62" y="711" class="mono" font-size="14">React</text></g>
+<g><title>TypeScript</title><rect x="131" y="691" width="120" height="29" rx="3" fill="#e8eadf" stroke="#c7cbbc"/><text x="145" y="711" class="mono" font-size="14">TypeScript</text></g>
+<g><title>Vite</title><rect x="259" y="691" width="66" height="29" rx="3" fill="#e8eadf" stroke="#c7cbbc"/><text x="273" y="711" class="mono" font-size="14">Vite</text></g>
+<g><title>GSAP</title><rect x="333" y="691" width="66" height="29" rx="3" fill="#e8eadf" stroke="#c7cbbc"/><text x="347" y="711" class="mono" font-size="14">GSAP</text></g>
+<g><title>Python</title><rect x="407" y="691" width="84" height="29" rx="3" fill="#e8eadf" stroke="#c7cbbc"/><text x="421" y="711" class="mono" font-size="14">Python</text></g>
+<g><title>HTML / CSS</title><rect x="48" y="728" width="120" height="29" rx="3" fill="#e8eadf" stroke="#c7cbbc"/><text x="62" y="748" class="mono" font-size="14">HTML / CSS</text></g>
+<g><title>GitHub Actions</title><rect x="176" y="728" width="156" height="29" rx="3" fill="#e8eadf" stroke="#c7cbbc"/><text x="190" y="748" class="mono" font-size="14">GitHub Actions</text></g>
+<rect x="601.000" y="695" width="184.772" height="6" fill="#3178c6"/>
+<g><title>TypeScript: 68,187 bytes (40.97%)</title><circle cx="606" cy="723" r="4" fill="#3178c6"/><text x="622" y="728" font-size="16">TypeScript</text><text x="1052" y="728" class="mono muted" font-size="14" text-anchor="end">41.0%</text></g>
+<rect x="785.772" y="695" width="73.915" height="6" fill="#663399"/>
+<g><title>CSS: 27,277 bytes (16.39%)</title><circle cx="606" cy="748" r="4" fill="#663399"/><text x="622" y="753" font-size="16">CSS</text><text x="1052" y="753" class="mono muted" font-size="14" text-anchor="end">16.4%</text></g>
+<rect x="859.687" y="695" width="192.313" height="6" fill="#626859"/>
+<g><title>Other: 70,970 bytes (42.64%)</title><circle cx="606" cy="773" r="4" fill="#626859"/><text x="622" y="778" font-size="16">Other</text><text x="1052" y="778" class="mono muted" font-size="14" text-anchor="end">42.6%</text></g>
+<path d="M48 808H1052" class="rule"/>
+<text x="48" y="842" class="mono muted" font-size="13" letter-spacing="1.2">04 / A YEAR OF SMALL DECISIONS</text>
+<text x="1052" y="842" class="mono muted" font-size="13" text-anchor="end">3 ACTIVE DAYS / LAST 365 DAYS</text>
+<path d="M48 884H1052M48 920H1052M48 956H1052" class="rule" stroke-dasharray="2 6"/>
+
+<g><title>2025-11: 1 authored commits</title><rect x="56.000" y="932.000" width="67.667" height="24.000" rx="2" fill="#536b3d" opacity="1"/><text x="89.833" y="922.000" class="mono muted" font-size="12" text-anchor="middle">1</text><text x="89.833" y="977" class="mono muted" font-size="12" text-anchor="middle">NOV</text></g>
+<g><title>2025-12: 0 authored commits</title><rect x="139.667" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="173.500" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="173.500" y="977" class="mono muted" font-size="12" text-anchor="middle">DEC</text></g>
+<g><title>2026-01: 0 authored commits</title><rect x="223.333" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="257.167" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="257.167" y="977" class="mono muted" font-size="12" text-anchor="middle">JAN</text></g>
+<g><title>2026-02: 0 authored commits</title><rect x="307.000" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="340.833" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="340.833" y="977" class="mono muted" font-size="12" text-anchor="middle">FEB</text></g>
+<g><title>2026-03: 3 authored commits</title><rect x="390.667" y="884.000" width="67.667" height="72.000" rx="2" fill="#536b3d" opacity="1"/><text x="424.500" y="876.000" class="mono muted" font-size="12" text-anchor="middle">3</text><text x="424.500" y="977" class="mono muted" font-size="12" text-anchor="middle">MAR</text></g>
+<g><title>2026-04: 0 authored commits</title><rect x="474.333" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="508.167" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="508.167" y="977" class="mono muted" font-size="12" text-anchor="middle">APR</text></g>
+<g><title>2026-05: 0 authored commits</title><rect x="558.000" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="591.833" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="591.833" y="977" class="mono muted" font-size="12" text-anchor="middle">MAY</text></g>
+<g><title>2026-06: 0 authored commits</title><rect x="641.667" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="675.500" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="675.500" y="977" class="mono muted" font-size="12" text-anchor="middle">JUN</text></g>
+<g><title>2026-07: 0 authored commits</title><rect x="725.333" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="759.167" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="759.167" y="977" class="mono muted" font-size="12" text-anchor="middle">JUL</text></g>
+<g><title>2026-08: 0 authored commits</title><rect x="809.000" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="842.833" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="842.833" y="977" class="mono muted" font-size="12" text-anchor="middle">AUG</text></g>
+<g><title>2026-09: 0 authored commits</title><rect x="892.667" y="954.000" width="67.667" height="2.000" rx="2" fill="#536b3d" opacity="0.2"/><text x="926.500" y="946.000" class="mono muted" font-size="12" text-anchor="middle"></text><text x="926.500" y="977" class="mono muted" font-size="12" text-anchor="middle">SEP</text></g>
+<g><title>2026-10: 2 authored commits</title><rect x="976.333" y="908.000" width="67.667" height="48.000" rx="2" fill="#ef502d" opacity="1"/><text x="1010.167" y="898.000" class="mono muted" font-size="12" text-anchor="middle">2</text><text x="1010.167" y="977" class="mono muted" font-size="12" text-anchor="middle">OCT</text></g>
+<text x="48" y="1009" font-size="13" class="muted">Public, owned, non-fork repositories · default branches · profile excluded</text>
+<text x="1052" y="1009" class="mono muted" font-size="12" text-anchor="end">UPDATED 24 OCT 2026</text>
+<text x="48" y="1031" font-size="12" class="muted">Commit history, not push events. Activity uses UTC months; the current month is partial.</text>
+</svg>

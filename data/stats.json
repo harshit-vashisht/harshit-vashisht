@@ -1,0 +1,99 @@
+{
+  "login": "harshit-vashisht",
+  "updated_at": "2026-10-24T16:57:26Z",
+  "public_repos": 6,
+  "stars": 0,
+  "followers": 0,
+  "scanned_repositories": 5,
+  "commits": 6,
+  "additions": 7138,
+  "deletions": 24,
+  "active_days": 3,
+  "activity": [
+    {
+      "month": "2025-11",
+      "commits": 1
+    },
+    {
+      "month": "2025-12",
+      "commits": 0
+    },
+    {
+      "month": "2026-01",
+      "commits": 0
+    },
+    {
+      "month": "2026-02",
+      "commits": 0
+    },
+    {
+      "month": "2026-03",
+      "commits": 3
+    },
+    {
+      "month": "2026-04",
+      "commits": 0
+    },
+    {
+      "month": "2026-05",
+      "commits": 0
+    },
+    {
+      "month": "2026-06",
+      "commits": 0
+    },
+    {
+      "month": "2026-07",
+      "commits": 0
+    },
+    {
+      "month": "2026-08",
+      "commits": 0
+    },
+    {
+      "month": "2026-09",
+      "commits": 0
+    },
+    {
+      "month": "2026-10",
+      "commits": 2
+    }
+  ],
+  "languages": [
+    {
+      "name": "TypeScript",
+      "bytes": 68187,
+      "color": "#3178c6"
+    },
+    {
+      "name": "CSS",
+      "bytes": 27277,
+      "color": "#663399"
+    },
+    {
+      "name": "HTML",
+      "bytes": 26954,
+      "color": "#e34c26"
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 23026,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "Python",
+      "bytes": 20990,
+      "color": "#3572A5"
+    }
+  ],
+  "stack": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "GSAP",
+    "Python",
+    "HTML / CSS",
+    "GitHub Actions"
+  ],
+  "scope": "Authored commit diffs in owned public non-fork repositories on default branches; profile repository excluded. Diff lines are cumulative changes, not unique current lines of code. Language sizes are repository bytes, not time spent."
+}
