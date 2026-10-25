@@ -68,7 +68,7 @@ def render_card(stats: dict, theme: str) -> str:
         f"{active:,} active days in the last 365 days. "
         "Code and activity cover owned public non-fork repositories on default branches, excluding this profile repository. "
         "Diff line counts are not unique lines of code or push events. "
-        f"Updated {updated}."
+        f"Created by atulhacks for harshit-vashisht. Updated {updated}."
     )
     parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1050" viewBox="0 0 1100 1050" role="img" aria-labelledby="card-title card-description" data-theme="{theme}" data-motion="workbench-v1">
 <title id="card-title">{e(login)} — A mind, under construction.</title>
@@ -200,5 +200,6 @@ def render_card(stats: dict, theme: str) -> str:
     parts.append(f'''<text x="48" y="1009" font-size="13" class="muted">Public, owned, non-fork repositories · default branches · profile excluded</text>
 <text x="1052" y="1009" class="mono muted" font-size="12" text-anchor="end">UPDATED {e(updated)}</text>
 <text x="48" y="1031" font-size="12" class="muted">Commit history, not push events. Activity uses UTC months; the current month is partial.</text>
+<text x="1052" y="1031" font-size="12" class="muted" text-anchor="end">Created by atulhacks</text>
 </svg>''')
     return "\n".join(parts) + "\n"

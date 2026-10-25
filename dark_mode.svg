@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1050" viewBox="0 0 1100 1050" role="img" aria-labelledby="card-title card-description" data-theme="dark" data-motion="workbench-v1">
 <title id="card-title">harshit-vashisht — A mind, under construction.</title>
-<desc id="card-description">harshit-vashisht. A mind, under construction. 6 public repositories, 6 authored commits, 0 stars, 0 followers. 7,138 lines added and 24 lines removed in authored commit diffs. 3 active days in the last 365 days. Code and activity cover owned public non-fork repositories on default branches, excluding this profile repository. Diff line counts are not unique lines of code or push events. Updated 24 OCT 2026.</desc>
+<desc id="card-description">harshit-vashisht. A mind, under construction. 6 public repositories, 6 authored commits, 0 stars, 0 followers. 7,138 lines added and 24 lines removed in authored commit diffs. 3 active days in the last 365 days. Code and activity cover owned public non-fork repositories on default branches, excluding this profile repository. Diff line counts are not unique lines of code or push events. Created by atulhacks for harshit-vashisht. Updated 24 OCT 2026.</desc>
 <defs>
   <pattern id="bench-dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#3c473c"/></pattern>
   <clipPath id="activity-clip"><rect x="48" y="857" width="1004" height="100"/></clipPath>
@@ -110,4 +110,5 @@
 <text x="48" y="1009" font-size="13" class="muted">Public, owned, non-fork repositories · default branches · profile excluded</text>
 <text x="1052" y="1009" class="mono muted" font-size="12" text-anchor="end">UPDATED 24 OCT 2026</text>
 <text x="48" y="1031" font-size="12" class="muted">Commit history, not push events. Activity uses UTC months; the current month is partial.</text>
+<text x="1052" y="1031" font-size="12" class="muted" text-anchor="end">Created by atulhacks</text>
 </svg>

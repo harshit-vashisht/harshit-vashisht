@@ -35,7 +35,7 @@ class CardTests(unittest.TestCase):
     def test_exact_counts_and_scope_are_accessible(self):
         root=ET.fromstring(render_card(STATS,'light'))
         description=root.find('s:desc',NS).text
-        for value in ['7,138','24','default branches','excluding this profile','not unique lines']:
+        for value in ['7,138','24','default branches','excluding this profile','not unique lines','Created by atulhacks']:
             self.assertIn(value,description)
     def test_untrusted_text_and_colors_cannot_create_elements(self):
         data=copy.deepcopy(STATS);data['login']='<script>alert(1)</script>';data['stack']=['<image href="https://invalid">'];data['languages']=[{'name':'A&B<script>','bytes':1,'color':'red" onload="alert(1)'}]
@@ -59,5 +59,5 @@ class CardTests(unittest.TestCase):
         self.assertIn('prefers-color-scheme: dark',text);self.assertIn('prefers-color-scheme: light',text)
         self.assertIn('7138',text.replace(',',''))
         self.assertIn('https://harshit-vashisht.github.io/',text)
-        self.assertNotIn('atulhacks',text)
+        self.assertIn('Created by [atulhacks](https://github.com/atulhacks)',text)
 if __name__=='__main__':unittest.main()

@@ -8,6 +8,8 @@
 
 [Enter the workbench](https://harshit-vashisht.github.io/) · [Light SVG](./light_mode.svg) · [Dark SVG](./dark_mode.svg)
 
+Profile: [harshit-vashisht](https://github.com/harshit-vashisht) · Created by [atulhacks](https://github.com/atulhacks).
+
 <details>
 <summary>Behind the numbers</summary>
 
