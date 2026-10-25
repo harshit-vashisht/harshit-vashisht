@@ -1,14 +1,14 @@
 {
   "login": "harshit-vashisht",
-  "updated_at": "2026-10-24T16:59:03Z",
+  "updated_at": "2026-10-25T06:08:53Z",
   "public_repos": 6,
   "stars": 0,
   "followers": 0,
   "scanned_repositories": 5,
-  "commits": 6,
-  "additions": 7138,
-  "deletions": 24,
-  "active_days": 3,
+  "commits": 7,
+  "additions": 7177,
+  "deletions": 29,
+  "active_days": 4,
   "activity": [
     {
       "month": "2025-11",
@@ -56,14 +56,19 @@
     },
     {
       "month": "2026-10",
-      "commits": 2
+      "commits": 3
     }
   ],
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 68187,
+      "bytes": 68223,
       "color": "#3178c6"
+    },
+    {
+      "name": "HTML",
+      "bytes": 27747,
+      "color": "#e34c26"
     },
     {
       "name": "CSS",
@@ -71,13 +76,8 @@
       "color": "#663399"
     },
     {
-      "name": "HTML",
-      "bytes": 26954,
-      "color": "#e34c26"
-    },
-    {
       "name": "JavaScript",
-      "bytes": 23026,
+      "bytes": 23037,
       "color": "#f1e05a"
     },
     {
