@@ -1,8 +1,8 @@
 <a href="https://harshit-vashisht.github.io/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit-vashisht/harshit-vashisht/main/dark_mode.svg?v=20261027T091053Z">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit-vashisht/harshit-vashisht/main/light_mode.svg?v=20261027T091053Z">
-    <img src="https://raw.githubusercontent.com/harshit-vashisht/harshit-vashisht/main/light_mode.svg?v=20261027T091053Z" alt="harshit-vashisht — A mind, under construction. 6 public repositories, 7 authored commits, 7,177 lines added and 29 removed. React, TypeScript, Vite, GSAP, Python, HTML and CSS, GitHub Actions." width="1100">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit-vashisht/harshit-vashisht/main/dark_mode.svg?v=20261028T095142Z">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit-vashisht/harshit-vashisht/main/light_mode.svg?v=20261028T095142Z">
+    <img src="https://raw.githubusercontent.com/harshit-vashisht/harshit-vashisht/main/light_mode.svg?v=20261028T095142Z" alt="harshit-vashisht — A mind, under construction. 7 public repositories, 9 authored commits, 23,493 lines added and 40 removed. React, TypeScript, Vite, GSAP, Python, HTML and CSS, GitHub Actions." width="1100">
   </picture>
 </a>
 
@@ -13,10 +13,10 @@ Profile: [harshit-vashisht](https://github.com/harshit-vashisht) · Created by [
 <details>
 <summary>Behind the numbers</summary>
 
-**6 public repositories · 7 authored commits · +7,177 / −29 lines**
+**7 public repositories · 9 authored commits · +23,493 / −40 lines**
 
 Code totals and monthly activity cover authored commits in owned, public, non-fork repositories on their default branches. This profile repository is excluded so automatic updates never inflate the totals. Lines added/removed are cumulative commit diffs, not unique current lines of code or a count of push events. GitHub-linked authorship is used; private repositories and unlinked commit emails are not included. Languages are measured in repository bytes, not time spent.
 
-The stack lists tools used in the portfolio. Generated from GitHub's API, refreshed daily by [GitHub Actions](https://github.com/harshit-vashisht/harshit-vashisht/actions/workflows/profile.yml). Last successful update: **2026-10-27T09:10:53Z**.
+The stack lists tools used in the portfolio. Generated from GitHub's API, refreshed daily by [GitHub Actions](https://github.com/harshit-vashisht/harshit-vashisht/actions/workflows/profile.yml). Last successful update: **2026-10-28T09:51:42Z**.
 
 </details>
